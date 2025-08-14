@@ -4,7 +4,7 @@ A quick guide to my portfolio, walking you through some of the projects I've wor
 ## 📑 Table of Contents
 - [SQL](#sql)
 - [Coding: Python & R](#coding-python-and-r)
-- [Visulizations](#visulizations)
+- [Visualizations](#visualizations)
 - [Reports](#reports)
 
 
@@ -26,7 +26,7 @@ A quick guide to my portfolio, walking you through some of the projects I've wor
 |![Singapore](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/sg.png "Singapore") [Examining a Brief Web and Longitudinal App-Based Intervention \[Wysa\] ](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1fVoVJcAAAAJ&citation_for_view=1fVoVJcAAAAJ:u-x6o8ySG0sC)| Research: Digital Mental Health| This paper dissects the impact of Wysa as a Mental Health support tool during the COVID-19 pandemic. It involves a mixed-method approach that utilizes regression analyses and qualitative coding. I conducted descriptive analysis, content analysis on user text, inferential tests, and logistic regression, which aimed to predict what type of negative thought patterns were effectively reframed using the psychological model. This paper was extremely fun as it involved my quantitative skills, combined with classical psychological models of mental illness and negative thoughts.| R| dplyr, psych, tidyr, ggplot2, glm|
 ***
 
-# Visulizations
+# Visualizations
 
 | Project Link | Project Description | Dashboard Link |
 |:---|---|---|
