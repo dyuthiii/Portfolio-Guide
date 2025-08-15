@@ -30,7 +30,7 @@ A quick guide to my portfolio, walking you through some of the projects I've wor
 
 | Project Link | Project Description | Dashboard Link |
 |:---|---|---|
-|💼[Columbia Business School (CBS) 2025 Peer Comparison](https://public.tableau.com/app/profile/dyuthi.dinesh/viz/2025Top30PeerSchoolsBoardBookCharts/M7top30admitrateandyield?publish=yes)| Dashboard comparing CBS's applications, admits, and enrollments over the years (2019-2024), and compared to peer schools. All the data was collected from the USNEWS website for 2025 Top Business Schools using the Wayback machine.|[Tableau Public Dashboard](https://public.tableau.com/app/profile/dyuthi.dinesh/viz/2025Top30PeerSchoolsBoardBookCharts/M7top30admitrateandyield?publish=yes)|
+|💼[Columbia Business School (CBS) 2025 Peer Comparison]<!--(https://public.tableau.com/app/profile/dyuthi.dinesh/viz/2025Top30PeerSchoolsBoardBookCharts/M7top30admitrateandyield?publish=yes)-->| Dashboard comparing CBS's applications, admits, and enrollments over the years (2019-2024), and compared to peer schools. All the data was collected from the USNEWS website for 2025 Top Business Schools using the Wayback machine.|[Tableau Public Dashboard]<!--(https://public.tableau.com/app/profile/dyuthi.dinesh/viz/2025Top30PeerSchoolsBoardBookCharts/M7top30admitrateandyield?publish=yes)-->|
 |🌸 [Visualizations Page](https://github.com/dyuthiii/Portfolio-Guide/blob/ff5822e7ddda432b71b9195e5b95ac1b0f4cbb96/Visualizations.md) | This page has the screenshots of some of my visualizations, which I can't directly link due to confidentiality.| [Page](https://github.com/dyuthiii/Portfolio-Guide/blob/ff5822e7ddda432b71b9195e5b95ac1b0f4cbb96/Visualizations.md)|
 ***
 
